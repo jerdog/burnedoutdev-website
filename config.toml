@@ -1,4 +1,4 @@
-baseurl = "/rel"
+baseurl = "/"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
